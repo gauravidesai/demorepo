@@ -1,0 +1,28 @@
+{"PurchaseOrder": {
+    "Company": "Fake Company Pty Ltd",
+    "PurchaseOrderLines": {"PurchaseOrderLine": [
+        {
+            "itemID": 123456,
+            "itemName": "Fake Product",
+            "cost": 100,
+            "qty": 5,
+            "currency": "GBP"
+        },
+        {
+            "itemID": 789,
+            "itemName": "Other Product",
+            "cost": 50,
+            "qty": 10,
+            "currency": "GBP"
+        }
+    ]},
+    "CustomerLast": "Taglieri",
+    "CustomerFirst": "Mark",
+    "ShippingAddress": {
+        "ShippingAddressLine1": "123 Fake St",
+        "Country": "",
+        "City": "London",
+        "Postcode": "",
+        "ShippingAddressLine2": "Fake Building"
+    }
+}}
